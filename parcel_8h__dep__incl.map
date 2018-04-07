@@ -1,0 +1,8 @@
+<map id="include/libtransistor/display/parcel.h" name="include/libtransistor/display/parcel.h">
+<area shape="rect" id="node2" href="$binder_8h.html" title="Data structures and functions for interacting with the Android Binder IPC interface used in vi servic..." alt="" coords="57,97,191,138"/>
+<area shape="rect" id="node3" href="$graphic__buffer__queue_8h.html" title="Graphics buffer queues data structures and functions. " alt="" coords="47,187,200,243"/>
+<area shape="rect" id="node4" href="$surface_8h.html" title="Display surface data structures and functions. " alt="" coords="57,291,191,333"/>
+<area shape="rect" id="node5" href="$display_8h.html" title="Display data structures and functions. " alt="" coords="5,382,139,423"/>
+<area shape="rect" id="node6" href="$vi_8h.html" title="Visual Services. " alt="" coords="57,473,191,514"/>
+<area shape="rect" id="node7" href="$nx_8h.html" title="Central Switch header. Includes all others. " alt="" coords="43,563,205,589"/>
+</map>

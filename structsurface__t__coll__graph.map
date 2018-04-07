@@ -1,0 +1,6 @@
+<map id="surface_t" name="surface_t">
+<area shape="rect" id="node2" href="$structgpu__buffer__t.html" title="Buffer to be used for various GPU functions. " alt="" coords="25,5,119,32"/>
+<area shape="rect" id="node3" href="$structgraphic__buffer__t.html" title="Graphics buffer. " alt="" coords="88,96,203,123"/>
+<area shape="rect" id="node4" href="$structigbp__t.html" title="IGraphicBufferProducer object. " alt="" coords="234,96,291,123"/>
+<area shape="rect" id="node5" href="$structbinder__t.html" title="Represents a remote interface. " alt="" coords="229,5,296,32"/>
+</map>

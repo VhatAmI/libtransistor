@@ -1,0 +1,5 @@
+<map id="ipc_server_t" name="ipc_server_t">
+<area shape="rect" id="node2" href="$structipc__server__session__t.html" title="ipc_server_session_t" alt="" coords="72,96,216,123"/>
+<area shape="rect" id="node3" href="$structipc__server__domain__t.html" title="Represents the server side of an IPC object domain. " alt="" coords="54,307,196,333"/>
+<area shape="rect" id="node4" href="$structipc__server__object__t.html" title="Represents the server side of an IPC object. " alt="" coords="172,216,306,243"/>
+</map>
